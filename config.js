@@ -1,0 +1,1 @@
+export const civicKey =  "AIzaSyA0LFlSaHIXrXj_GvVVhXfEyXaKWTfmdX0"
